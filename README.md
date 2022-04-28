@@ -18,21 +18,27 @@ Phone: (+886)968800390
 
 * **車輛盲眼偵測系統（校內優等獎）**
 
-    * 利用...技術，達到...效果
+    * 利用Blind Spot Assist盲點輔助系統偵測駕駛的視線死角，進而保護駕駛安全。
 
-    
 **經歷與獎項**
+* 2019參與 特奧融合活動協辦人員
+* 2019考取 機器腳踏車乙級證照
+* 2020擔任 車輛塗裝全國賽北區初賽選手
+* 2020擔任 造型氣球社社長，協辦各類公益活動數次
+* 2020考取 C級籃球教練，並在巔峰籃球訓練營擔任暑期教練
+* 2022擔任 龍華科技大學 班代一職
 
-* NCCU Google Developer Student Club (Embedded System department)
-* 政治大學 ACM-ICPC 選手培訓營
-* 參與 香港理工大學 International Symposium and Expo on Service-Learning and Socially Responsible Global Citizenship
-* 政治大學 物件導向程式競賽專題 第三名
-* 參與 Global Youth Leadership Summit
 
+**國際參與**
+* 2019參與 以色列智慧科學教育遊學計畫，到以色列做交換學生
  
 **實習經驗**
 * 福特汽車：噴漆、引琴檢修
 * 現代汽車：噴漆、車輛塗裝實習生
+
+**語言能力**
+
+* 英文：精通
 
 **作品(上方)**
 
